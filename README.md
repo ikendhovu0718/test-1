@@ -1,2 +1,2 @@
 # test-1
-first testing fase
+first testing phase
